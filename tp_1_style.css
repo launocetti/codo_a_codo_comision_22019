@@ -1,0 +1,21 @@
+
+p {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  padding: 50px;
+  color:yellow;
+  margin: 0 0 0 5px;
+
+}
+
+div{
+    display:flex;
+}
+
+p#red{
+  background-color: red;
+}
+p#black{
+  background-color: black;
+}
