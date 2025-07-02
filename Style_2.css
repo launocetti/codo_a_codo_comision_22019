@@ -14,7 +14,7 @@ body p /* parrafos de cuerpo de pagina*/
 #fondo
 {
     width: 1080px;
-    background-color: yellow;
+    background-color: white;
     background-image: src="fondo_madera_02.jpg"; 
     margin: 0 auto;
     padding: 10px;
